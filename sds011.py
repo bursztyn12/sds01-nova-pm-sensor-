@@ -7,7 +7,7 @@ import datetime
 from datetime import date
 
 ser = serial.Serial()
-ser.port = "COM3"
+ser.port = "/dev/ttyUSB0"
 ser.baudrate = 9600
 
 # commands
