@@ -18,7 +18,7 @@ work = "\xaa\xb4\x06\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xff\xff\x06
 # amount of measurers
 amount = 20
 
-# amount of time during sensor is inactive(in seconds)
+# time during sensor is inactive(in seconds)
 sleep_duration = 3600
 
 ser.open()
